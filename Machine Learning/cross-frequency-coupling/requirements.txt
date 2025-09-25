@@ -1,0 +1,9 @@
+numpy
+scipy
+mne
+mne-bids
+matplotlib
+scikit-learn
+statsmodels
+
+

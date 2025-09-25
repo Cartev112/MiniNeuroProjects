@@ -1,0 +1,5 @@
+numpy
+mne
+mne-bids
+scikit-learn
+
